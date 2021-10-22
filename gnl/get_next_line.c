@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../get_next_line.h"
+#include "get_next_line.h"
 
 char	*fr_free(char *buffer, char *buf)
 {
